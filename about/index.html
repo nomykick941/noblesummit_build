@@ -125,16 +125,10 @@
                     </li>
                     
                         
-                        <li>
-                            <a href="/categories/tips/">tips</a>
-                        </li>
-                        
                     
                     
 		    
                         <li><a href="/archive/">ARCHIVE</a></li>
-                    
-                        <li><a href="/notes/">NOTES</a></li>
                     
                         <li><a href="/about/">ABOUT</a></li>
                     
@@ -205,40 +199,21 @@
             col-xs-12
             post-container">
             
-                 
- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 日文 | Japanese </option>
-    <option value="1"> 英文 | English </option>
-</select>
+                <h2 id="はじめに">はじめに</h2>
+<p>こんにちは！ <strong><em>NobleSummit</em></strong> を見て下さりありがとうございます。<br>
+このページでは本サイトの運営者である <strong><em>KOH</em></strong> について紹介します。</p>
+<h3 id="運営者kohについて">運営者KOHについて</h3>
+<p>1995年生まれ 埼玉生まれ 埼玉育ちの男性です。<br>
+仕事や家庭、様々なものに打ち込みたい今日この頃です。</p>
+<p>本業ではシステムエンジニアとして、公共領域における大規模システムの開発に携わっています。大学院を卒業後、新卒で外資系IT企業に入社し、システム実装およびコンサルティングを経験しました。3年目からは日系IT企業にて、自身による開発経験を強みに技術リードとしてチームリーダーを担当しています。</p>
+<p>この頃はよりマネジメントにも力を入れており、Project Management Professional(PMP)も保有しています。本サイトで転職やキャリア形成についても発信していこうと考えています。</p>
+<h3 id="noblesummitについて">NobleSummitについて</h3>
+<p>本サイトの名前 <strong><em>NobleSummit</em></strong> は直訳すると高潔な頂点です。<br>
+気品ある大人としてトップを目指したい、その思いを言葉にしています。</p>
+<p><strong><em>ワンランク上の大人を目指す</em></strong> を様々な切り口から実現してきます。<br>
+同じ思いを持つ方の参考・励みになるようなコンテンツを発信していきます。</p>
+<p>一緒に頑張りましょう！</p>
 
-                
-                <div class="ja post-container">
-                    
-                    <h2 id="私に">私に</h2>
-<p><strong><em>運営者コウ</em></strong> is a ああ, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years.</p>
-<p>Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production.</p>
-<p>He loves open source and has been contributing to various open source projects, he is a member of Istio,  previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.</p>
-<p>He also has strong interests in various technical topics such as Cloud Native, Artificial Intelligence, Cryptocurrencies, Smart Home, etc. He love sharing his ideas about these things in his blog.</p>
-<p>Huabing holds a BSc in Computer Science and Technology from Chongqing University in China.</p>
-<p>Currently, Huabing works as a senior engineer at <a href="https://cloud.tencent.com/">Tencent Cloud</a> and also wears the hat of PTL in ONAP open source project. For now, his main focus is to build a managed service mesh solution on cloud.</p>
-<p>While he is free, he likes writing technical blog posts, watching movies, swimming, hiking, travelling and learning languages.</p>
-<p>Feel free to connect Huabing at Github and Linkedin, leave your thoughts in his blog or share your ideas by <a href="mailto:zhaohuabing@zhaohuabing.com">writing him an email</a>.</p>
-
-                </div>
-            
-                
-                <div class="en post-container">
-                    <h2 id="about-me">About Me</h2>
-<p><strong><em>KOH</em></strong> is a software architect, an Istio Member and an ONAP PTL. He has a solid experience in the information and telecommunication technology industry for more than 17 years.</p>
-<p>Throughout his career, he has built a number of large-scale, cross-country software systems, most of them are still running in production.</p>
-<p>He loves open source and has been contributing to various open source projects, he is a member of Istio,  previous PTL of ONAP, the author of the Hugo clean-white theme and the open source project Aeraki Mesh.</p>
-<p>He also has strong interests in various technical topics such as Cloud Native, Artificial Intelligence, Cryptocurrencies, Smart Home, etc. He love sharing his ideas about these things in his blog.</p>
-<p>Huabing holds a BSc in Computer Science and Technology from Chongqing University in China.</p>
-<p>Currently, Huabing works as a senior engineer at <a href="https://cloud.tencent.com/">Tencent Cloud</a> and also wears the hat of PTL in ONAP open source project. For now, his main focus is to build a managed service mesh solution on cloud.</p>
-<p>While he is free, he likes writing technical blog posts, watching movies, swimming, hiking, travelling and learning languages.</p>
-<p>Feel free to connect Huabing at Github and Linkedin, leave your thoughts in his blog or share your ideas by <a href="mailto:zhaohuabing@zhaohuabing.com">writing him an email</a>.</p>
-
-                </div>
             
              
             
@@ -311,8 +286,6 @@
         <h5>FEATURED TAGS</h5>
         <div class="tags">
             
-            
-               
             
         </div>
     </section>
@@ -490,57 +463,6 @@
 </script>
 
 
-
-<script type="text/javascript">
-    
-    var $ja = document.querySelector(".ja");
-    var $en = document.querySelector(".en");
-    var $select = document.querySelector("select");
-
-    
-    function getLang() { return new URLSearchParams(document.location.search).get("lang") }
-
-    function setLang(newLang) {
-        var params = new URLSearchParams(document.location.search)
-        params.set("lang", newLang)
-        document.location.search = params.toString()  
-    }
-
-    
-    function _render() {
-        var lang = getLang()
-        
-        if (lang == "en") {
-            $select.selectedIndex = 1;
-            $en.style.display = "block";
-            $en.classList.add("active");
-            $ja.style.display = "none";
-            $ja.classList.remove("active");
-            
-        } else {
-            $select.selectedIndex = 0;
-            $ja.style.display = "block";
-            $ja.classList.add("active");
-            $en.style.display = "none";
-            $en.classList.remove("active");
-        }
-        
-        generateCatalog(".catalog-body");
-    }
-
-    
-    function onLanChange(index) {
-        if (index == 0) {
-            lang = "ja"
-        } else {
-            lang = "en"
-        }
-        setLang(lang)
-    }
-
-    
-    _render();
-</script>
 
 
 
