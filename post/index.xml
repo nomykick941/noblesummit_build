@@ -6,7 +6,14 @@
     <description>Recent content in Posts on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://noblesummit.jp/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to NobleSummit</title>
+      <link>https://noblesummit.jp/welcome/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://noblesummit.jp/welcome/</guid>
+      <description>ようこそ 自分磨きの世界へ こんにちは、KOH です。 本サイトでは私 KOH がワンランク上の大人を目指して行った ノウハウやマインドをコンテンツとして発信</description>
+    </item>
   </channel>
 </rss>
