@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NISA on NobleSummit</title>
+    <link>https://noblesummit.jp/tags/nisa/</link>
+    <description>Recent content in NISA on NobleSummit</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://noblesummit.jp/tags/nisa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新NISAについて知っておくべきこと</title>
+      <link>https://noblesummit.jp/newnisa/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://noblesummit.jp/newnisa/</guid>
+      <description>はじめに 2024年から日本の少額投資非課税制度（NISA）がリニューアルされ、新たな制度「新NISA」が導入されます。この変更は、多くの投資</description>
+    </item>
+  </channel>
+</rss>
