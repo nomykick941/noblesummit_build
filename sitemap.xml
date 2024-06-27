@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://noblesummit.jp/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/tags/pmp/</loc>
+    <loc>http://localhost:1313/tags/pmp/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/categories/work/</loc>
+    <loc>http://localhost:1313/categories/work/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/aboutpmp/</loc>
+    <loc>http://localhost:1313/aboutpmp/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/welcome/</loc>
+    <loc>http://localhost:1313/welcome/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://noblesummit.jp/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
   </url><url>
-    <loc>https://noblesummit.jp/search/placeholder/</loc>
+    <loc>http://localhost:1313/search/placeholder/</loc>
   </url><url>
-    <loc>https://noblesummit.jp/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://noblesummit.jp/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
