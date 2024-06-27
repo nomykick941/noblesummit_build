@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on NobleSummit</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://noblesummit.jp/post/</link>
     <description>Recent content in Posts on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>プロジェクト管理の専門家になるためのPMP資格とは？</title>
-      <link>http://localhost:1313/aboutpmp/</link>
+      <link>https://noblesummit.jp/aboutpmp/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aboutpmp/</guid>
+      <guid>https://noblesummit.jp/aboutpmp/</guid>
       <description>1. PMP資格とは？ プロジェクト管理プロフェッショナル（PMP: Project Management Professional）は、プロジェクト管理の国際的な標準を提供する資格</description>
     </item>
     <item>
       <title>Welcome to NobleSummit</title>
-      <link>http://localhost:1313/welcome/</link>
+      <link>https://noblesummit.jp/welcome/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/welcome/</guid>
+      <guid>https://noblesummit.jp/welcome/</guid>
       <description>ようこそ 自分磨きの世界へ こんにちは、KOH です。 本サイトでは私 KOH がワンランク上の大人を目指して行った ノウハウやマインドをコンテンツとして発信</description>
     </item>
   </channel>
