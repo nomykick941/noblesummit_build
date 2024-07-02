@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COLUMN on NobleSummit</title>
-    <link>http://localhost:1313/categories/column/</link>
+    <link>https://noblesummit.jp/categories/column/</link>
     <description>Recent content in COLUMN on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/column/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://noblesummit.jp/categories/column/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年問題とは？日本社会への影響と今後の展望</title>
-      <link>http://localhost:1313/2024issue/</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024issue/</guid>
+      <link>https://noblesummit.jp/2024issue/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://noblesummit.jp/2024issue/</guid>
       <description>はじめに 2024年問題とは、日本の労働市場や社会全体に深刻な影響を及ぼすと予想される一連の課題を指します。この問題は、人口減少と高齢化、さら</description>
     </item>
   </channel>
