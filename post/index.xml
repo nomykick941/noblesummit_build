@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on NobleSummit</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://noblesummit.jp/post/</link>
     <description>Recent content in Posts on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新NISAについて知っておくべきこと</title>
-      <link>http://localhost:1313/newnisa/</link>
+      <link>https://noblesummit.jp/newnisa/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newnisa/</guid>
+      <guid>https://noblesummit.jp/newnisa/</guid>
       <description>はじめに こんにちは、 KOH です。 2024年から日本の少額投資非課税制度（NISA）がリニューアルされ、新たな制度「新NISA」が導入されます。こ</description>
     </item>
     <item>
       <title>2024年問題とは？日本社会への影響と今後の展望</title>
-      <link>http://localhost:1313/2024issue/</link>
+      <link>https://noblesummit.jp/2024issue/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2024issue/</guid>
+      <guid>https://noblesummit.jp/2024issue/</guid>
       <description>はじめに こんにちは、 KOH です。 2024年問題とは、日本の労働市場や社会全体に深刻な影響を及ぼすと予想される一連の課題を指します。この問題は、人</description>
     </item>
     <item>
       <title>プロジェクト管理の専門家になるためのPMP資格とは？</title>
-      <link>http://localhost:1313/aboutpmp/</link>
+      <link>https://noblesummit.jp/aboutpmp/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aboutpmp/</guid>
+      <guid>https://noblesummit.jp/aboutpmp/</guid>
       <description>はじめに こんにちは、 KOH です。 カッコいい大人に「仕事ができる」は不可欠です。 本ページではキャリアアップのためのPMP資格取得についてお話ししま</description>
     </item>
     <item>
       <title>Welcome to NobleSummit</title>
-      <link>http://localhost:1313/welcome/</link>
+      <link>https://noblesummit.jp/welcome/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/welcome/</guid>
+      <guid>https://noblesummit.jp/welcome/</guid>
       <description>ようこそ 自分磨きの世界へ こんにちは、KOH です。 本サイトでは私 KOH がワンランク上の大人を目指して行った ノウハウやマインドをコンテンツとして発信</description>
     </item>
   </channel>
