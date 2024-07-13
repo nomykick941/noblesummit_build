@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MONEY on NobleSummit</title>
-    <link>https://noblesummit.jp/categories/money/</link>
-    <description>Recent content in MONEY on NobleSummit</description>
+    <title>仮想通貨 on NobleSummit</title>
+    <link>https://noblesummit.jp/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
+    <description>Recent content in 仮想通貨 on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://noblesummit.jp/categories/money/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ワールドコイン：デジタルアイデンティティと分散型通貨の未来</title>
       <link>https://noblesummit.jp/worldcoin/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://noblesummit.jp/worldcoin/</guid>
       <description>はじめに こんにちは、 KOH です。 ワールドコイン（Worldcoin）は、革新的なデジタル通貨プロジェクトとして注目を集めています。このプロジェク</description>
-    </item>
-    <item>
-      <title>新NISAについて知っておくべきこと</title>
-      <link>https://noblesummit.jp/newnisa/</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/newnisa/</guid>
-      <description>はじめに こんにちは、 KOH です。 2024年から日本の少額投資非課税制度（NISA）がリニューアルされ、新たな制度「新NISA」が導入されます。こ</description>
     </item>
   </channel>
 </rss>
