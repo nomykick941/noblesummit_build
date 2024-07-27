@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生産性 on NobleSummit</title>
+    <link>http://localhost:1313/tags/%E7%94%9F%E7%94%A3%E6%80%A7/</link>
+    <description>Recent content in 生産性 on NobleSummit</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 27 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E7%94%A3%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notionとは？その魅力とおすすめの使い方</title>
+      <link>http://localhost:1313/notion/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notion/</guid>
+      <description>はじめに こんにちは、 KOH です。 昨今では様々なアプリケーションが世に溢れています。その中でも最近企業等でも取り入れられ、話題になっているNoti</description>
+    </item>
+  </channel>
+</rss>
