@@ -2,29 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noblesummit.jp/categories/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://noblesummit.jp/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://noblesummit.jp/pmpsidework/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://noblesummit.jp/post/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/urban/</loc>
-    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
+    <loc>https://noblesummit.jp/tags/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/categories/</loc>
+    <loc>https://noblesummit.jp/categories/work/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://noblesummit.jp/tags/%E5%89%AF%E6%A5%AD/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://noblesummit.jp/urban/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://noblesummit.jp/categories/column/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://noblesummit.jp/tags/</loc>
-    <lastmod>2024-08-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://noblesummit.jp/tags/%E4%B8%8D%E5%8B%95%E7%94%A3/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noblesummit.jp/categories/work/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://noblesummit.jp/praktika/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
@@ -39,9 +45,6 @@
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://noblesummit.jp/andart/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://noblesummit.jp/tags/%E5%89%AF%E6%A5%AD/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://noblesummit.jp/shopee/</loc>
