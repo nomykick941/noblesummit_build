@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WORK on NobleSummit</title>
-    <link>https://noblesummit.jp/categories/work/</link>
+    <link>http://localhost:1313/categories/work/</link>
     <description>Recent content in WORK on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://noblesummit.jp/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PMPを活用した副業の成功ガイド</title>
-      <link>https://noblesummit.jp/pmpsidework/</link>
+      <link>http://localhost:1313/pmpsidework/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/pmpsidework/</guid>
+      <guid>http://localhost:1313/pmpsidework/</guid>
       <description>はじめに こんにちは、 KOH です。 PMP（Project Management Professional）資格を取得したものの、本業だけでなく副業でも活かせる方法がある</description>
     </item>
     <item>
       <title>英語学習アプリ「praktika」の効果的な使い方とおすすめの勉強方法</title>
-      <link>https://noblesummit.jp/praktika/</link>
+      <link>http://localhost:1313/praktika/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/praktika/</guid>
+      <guid>http://localhost:1313/praktika/</guid>
       <description>はじめに こんにちは、 KOH です。 英語学習を効率的に進めるために、多くのアプリが登場しています。その中でも、特に注目を集めているのが「prakti</description>
     </item>
     <item>
       <title>Notionとは？その魅力とおすすめの使い方</title>
-      <link>https://noblesummit.jp/notion/</link>
+      <link>http://localhost:1313/notion/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/notion/</guid>
+      <guid>http://localhost:1313/notion/</guid>
       <description>はじめに こんにちは、 KOH です。 昨今では様々なアプリケーションが世に溢れています。その中でも最近企業等でも取り入れられ、話題になっているNoti</description>
     </item>
     <item>
       <title>アートで世界に投資を</title>
-      <link>https://noblesummit.jp/andart/</link>
+      <link>http://localhost:1313/andart/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/andart/</guid>
+      <guid>http://localhost:1313/andart/</guid>
       <description>はじめに こんにちは、 KOH です。 昨今では様々な投資が世に溢れています。その中でも新しいものとして美術作品への投資ができるプラットフォームがありま</description>
     </item>
     <item>
       <title>副業にできる？Shopeeとは</title>
-      <link>https://noblesummit.jp/shopee/</link>
+      <link>http://localhost:1313/shopee/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/shopee/</guid>
+      <guid>http://localhost:1313/shopee/</guid>
       <description>はじめに インターネットの普及により、オンラインマーケットプレイスでの副業がますます一般的になっています。Shopeeは、アジアを中心に急成長</description>
     </item>
     <item>
       <title>これからの理想のリーダー像？サーバントリーダーシップとは</title>
-      <link>https://noblesummit.jp/servantleader/</link>
+      <link>http://localhost:1313/servantleader/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/servantleader/</guid>
+      <guid>http://localhost:1313/servantleader/</guid>
       <description>はじめに こんにちは、 KOH です。 カッコいい大人に「仕事ができる」は不可欠です。 本ページではこれからの理想のリーダー：サーバントリーダーについてお</description>
     </item>
     <item>
       <title>プロジェクト管理の専門家になるためのPMP資格とは？</title>
-      <link>https://noblesummit.jp/aboutpmp/</link>
+      <link>http://localhost:1313/aboutpmp/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/aboutpmp/</guid>
+      <guid>http://localhost:1313/aboutpmp/</guid>
       <description>はじめに こんにちは、 KOH です。 カッコいい大人に「仕事ができる」は不可欠です。 本ページではキャリアアップのためのPMP資格取得についてお話ししま</description>
     </item>
   </channel>

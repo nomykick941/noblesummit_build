@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>社会問題 on NobleSummit</title>
-    <link>https://noblesummit.jp/tags/%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/</link>
+    <link>http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/</link>
     <description>Recent content in 社会問題 on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://noblesummit.jp/tags/%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024年問題とは？日本社会への影響と今後の展望</title>
-      <link>https://noblesummit.jp/2024issue/</link>
+      <link>http://localhost:1313/2024issue/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/2024issue/</guid>
+      <guid>http://localhost:1313/2024issue/</guid>
       <description>はじめに こんにちは、 KOH です。 2024年問題とは、日本の労働市場や社会全体に深刻な影響を及ぼすと予想される一連の課題を指します。この問題は、人</description>
     </item>
   </channel>

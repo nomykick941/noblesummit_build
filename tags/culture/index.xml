@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on NobleSummit</title>
-    <link>https://noblesummit.jp/tags/culture/</link>
+    <link>http://localhost:1313/tags/culture/</link>
     <description>Recent content in Culture on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://noblesummit.jp/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEI文化（ダイバーシティ・エクイティ・インクルージョン）の意義と実践</title>
-      <link>https://noblesummit.jp/dei/</link>
+      <link>http://localhost:1313/dei/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://noblesummit.jp/dei/</guid>
+      <guid>http://localhost:1313/dei/</guid>
       <description>はじめに ダイバーシティ（多様性）、エクイティ（公平性）、インクルージョン（包括性）は、現代社会や企業にとって欠かせない要素となっています。D</description>
     </item>
   </channel>
