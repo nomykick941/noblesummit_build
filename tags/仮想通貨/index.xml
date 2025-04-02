@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>仮想通貨 on NobleSummit</title>
-    <link>http://localhost:1313/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
+    <link>https://noblesummit.jp/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
     <description>Recent content in 仮想通貨 on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ワールドコイン：デジタルアイデンティティと分散型通貨の未来</title>
-      <link>http://localhost:1313/worldcoin/</link>
+      <link>https://noblesummit.jp/worldcoin/</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/worldcoin/</guid>
+      <guid>https://noblesummit.jp/worldcoin/</guid>
       <description>はじめに こんにちは、 KOH です。 ワールドコイン（Worldcoin）は、革新的なデジタル通貨プロジェクトとして注目を集めています。このプロジェク</description>
     </item>
   </channel>

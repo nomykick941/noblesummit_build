@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Business on NobleSummit</title>
-    <link>http://localhost:1313/tags/business/</link>
+    <link>https://noblesummit.jp/tags/business/</link>
     <description>Recent content in Business on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PREP法でプレゼン力アップ！</title>
-      <link>http://localhost:1313/prep/</link>
+      <link>https://noblesummit.jp/prep/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/prep/</guid>
+      <guid>https://noblesummit.jp/prep/</guid>
       <description>はじめに 日常生活やビジネスシーンで、誰かに物事を効果的に説明するスキルは非常に重要です。そんなときに役立つのがPREP法（Point, Reason, Example, P</description>
     </item>
   </channel>

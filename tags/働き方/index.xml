@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>働き方 on NobleSummit</title>
-    <link>http://localhost:1313/tags/%E5%83%8D%E3%81%8D%E6%96%B9/</link>
+    <link>https://noblesummit.jp/tags/%E5%83%8D%E3%81%8D%E6%96%B9/</link>
     <description>Recent content in 働き方 on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%83%8D%E3%81%8D%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/%E5%83%8D%E3%81%8D%E6%96%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>これからの理想のリーダー像？サーバントリーダーシップとは</title>
-      <link>http://localhost:1313/servantleader/</link>
+      <link>https://noblesummit.jp/servantleader/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/servantleader/</guid>
+      <guid>https://noblesummit.jp/servantleader/</guid>
       <description>はじめに こんにちは、 KOH です。 カッコいい大人に「仕事ができる」は不可欠です。 本ページではこれからの理想のリーダー：サーバントリーダーについてお</description>
     </item>
   </channel>

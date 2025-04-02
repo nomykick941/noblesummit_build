@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trip on NobleSummit</title>
-    <link>http://localhost:1313/tags/trip/</link>
+    <link>https://noblesummit.jp/tags/trip/</link>
     <description>Recent content in Trip on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/trip/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/trip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ESTAの申請を間違えた話し</title>
-      <link>http://localhost:1313/esta/</link>
+      <link>https://noblesummit.jp/esta/</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/esta/</guid>
+      <guid>https://noblesummit.jp/esta/</guid>
       <description>はじめに 日本人であればアメリカに数日程度行くときはESTAを申請すればビザなしで入国することができます。 私は2019年にサンフランシスコに行</description>
     </item>
   </channel>

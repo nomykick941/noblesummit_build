@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ロマン on NobleSummit</title>
-    <link>http://localhost:1313/tags/%E3%83%AD%E3%83%9E%E3%83%B3/</link>
+    <link>https://noblesummit.jp/tags/%E3%83%AD%E3%83%9E%E3%83%B3/</link>
     <description>Recent content in ロマン on NobleSummit</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%AD%E3%83%9E%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://noblesummit.jp/tags/%E3%83%AD%E3%83%9E%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>機械式腕時計の魅力</title>
-      <link>http://localhost:1313/mechanicalwatch/</link>
+      <link>https://noblesummit.jp/mechanicalwatch/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mechanicalwatch/</guid>
+      <guid>https://noblesummit.jp/mechanicalwatch/</guid>
       <description>はじめに デジタル技術が進化する現代においても、機械式腕時計は多くの人々に愛されています。その魅力は単なる時間を知るための道具を超え、芸術品と</description>
     </item>
   </channel>
